@@ -1,4 +1,4 @@
-# Rangr CRM — Palantir Foundry Demo
+# CRM — Palantir Foundry Demo
 
 ## Overview
 
